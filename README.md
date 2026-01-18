@@ -88,7 +88,7 @@ Even in an 8-bit universe, structure emerges naturally once symmetry is respecte
 
 ```bash
 g++ -std=c++17 -O2 -o generative_numbers main.cpp
-./generative_numbers
+./GenerativeNumbers
 ```
 
 ## Output
